@@ -2,6 +2,7 @@
 Utilización de Convolutional Neural Networks para clasificación de imágenes de personajes de series animadas de televisión
 Dataset:  
 Training: https://onedrive.live.com/download?cid=C506CF0A4F373B0F&resid=C506CF0A4F373B0F%219337&authkey=AMzI92bJPx8Sd60
+
 Test: https://onedrive.live.com/download?cid=C506CF0A4F373B0F&resid=C506CF0A4F373B0F%219341&authkey=ANnjK3Uq1FhuAe8
 
 --> Estos datasets son las recopilaciones de Alexandre Attia
