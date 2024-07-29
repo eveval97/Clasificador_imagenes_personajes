@@ -1,5 +1,6 @@
 # Clasificador_imagenes_personajes
 Utilización de Convolutional Neural Networks para clasificación de imágenes de personajes de series animadas de televisión
+
 Dataset:  
 Training: https://onedrive.live.com/download?cid=C506CF0A4F373B0F&resid=C506CF0A4F373B0F%219337&authkey=AMzI92bJPx8Sd60
 
